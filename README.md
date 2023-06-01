@@ -1,4 +1,4 @@
-# Email-Template
+# Email Template
 
 ## :pencil: Description
 
