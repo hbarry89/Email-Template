@@ -1,12 +1,12 @@
 # Email-Template
 
-## :page_facing_up: Description
+## :pencil: Description
 
 - A sample responsive email template built with HTML and CSS for email development and digital marketing.
 - Tested using Litmus: PutsMail.
 - Following this [tutorial](https://www.youtube.com/watch?v=bWioL_nn9cI).
 
-## :sparkles: Usage
+## :computer: Usage
 
 [Click here](https://hbarry89.github.io/Email-Template/) for the live link.
 
@@ -30,12 +30,20 @@
 
 <img src="./demo-images/footer.png" alt="Demo Image" width="250" height="190">
 
-## :medal_military: Credit
+## :wrench: Technologies Used
+
+- HTML
+- CSS
+- VS Code
+
+## :star2: Features
+
+- Responsiveness
+- Deliverability
+
+## :books: Resources
 
 - [Tutorial](https://www.youtube.com/watch?v=bWioL_nn9cI) 
 - [Litmus: Putsmail](https://putsmail.com/)
-
-### Applications Used
-- VS Code
 
 <p align="center">Thank you for visiting! :ribbon:</p>
